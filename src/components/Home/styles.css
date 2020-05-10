@@ -1,0 +1,16 @@
+.container {
+    margin: 20px;
+}
+
+.title {
+    background-color: bisque;
+}
+
+.chessImg {
+    width: 50%;
+    padding-bottom: 25px;
+}
+
+.button {
+    width: 150px;
+}
